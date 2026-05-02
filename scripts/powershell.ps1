@@ -92,7 +92,7 @@ if (-not (Test-Installed "Docker")) {
 
 # 3. Download and Run docker.yml from GitHub
 
-$dockerYamlUrl = "https://githubusercontent.com" # REPLACE WITH YOUR URL
+$dockerYamlUrl = "https://github.com/youssef-fadl/SOC-Home-Lab/blob/main/docker-compose.yml" # REPLACE WITH YOUR URL
 
 $destinationDir = "C:\DockerSetup"
 
