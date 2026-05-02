@@ -71,7 +71,7 @@ Run the provided PowerShell script to automate the system configuration. The scr
 2.  Right-click on the file **setup_WSL2_Docker.ps1**.
 3.  Select **Run with PowerShell**.
 
-![SOC Lab Diagram](open PS1.png)
+![SOC Lab Diagram](openPS1.png)
 
 _Note1: The script will automatically restart your computer after the installation is complete to apply changes. Please save your work before running it._
 
